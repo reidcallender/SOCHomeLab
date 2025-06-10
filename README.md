@@ -9,12 +9,16 @@ The purpose of this lab was to create a basic home SOC in the cloud using azure.
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- KQL 
+- Azure Sentinel
+- Log analytics workspace
+- Azure VM
+- Json
+  
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11 Pro (VM)</b> 
 
 <h2>Lab Walk-through:</h2>
 
@@ -77,12 +81,3 @@ The final results of the lab! We can see three different brute force attacks whi
 A separate implementation that I did of this lab. This time I recorded one brute force attack and a few single login attempts. <br />
 <br />
 ![Image](https://github.com/user-attachments/assets/ffc3ffc2-0110-4d7f-97c8-4080888f49cf)
-  <!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
