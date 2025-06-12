@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-The purpose of this lab was to create a basic home SOC in the cloud using azure. I created a virtual machine and opened it to the internet to entice attackers. I forwarded the logs from the VM to a central repository and integrated microsoft sentinel to analyze and map the attack data.
+The purpose of this lab was to create a basic home SOC in the cloud using azure. I created a virtual machine and opened it to the internet to entice attackers. I forwarded the logs from the VM to a central repository and integrated Microsoft Sentinel to analyze and map the attack data.
 <br />
 
 
